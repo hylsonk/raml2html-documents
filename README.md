@@ -19,4 +19,4 @@ Executar:
 npm run execute
 ```
 
-Abrir o HTML na pasta html
+Abrir o HTML na pasta html ou o indes.html da raiz do projeto
