@@ -11,12 +11,12 @@ npm install
 
 ## Como usar
 
-Copiar e colar o RAML na raiz da pasta de raml
+Copiar e colar o RAML na raiz da pasta de raml.
 
-## Comandos
-
-Para gerar os HTMLs dos RAMLs
+Executar:
 
 ```sh
 npm run execute
 ```
+
+Abrir o HTML na pasta html
