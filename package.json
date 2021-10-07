@@ -4,6 +4,7 @@
   "description": "raml2html-documents",
   "main": "index.js",
   "scripts": {
+    "execute": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "HYLSON BERNARDO SHIGUENORI KOBAYASHI",
